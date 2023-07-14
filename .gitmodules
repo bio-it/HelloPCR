@@ -1,0 +1,6 @@
+[submodule "HelloPCR-MFC"]
+	path = HelloPCR-MFC
+	url = https://github.com/bio-it/HelloPCR-MFC
+[submodule "HelloPCR-Runner"]
+	path = HelloPCR-Runner
+	url = https://github.com/bio-it/HelloPCR-Runner
